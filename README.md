@@ -20,7 +20,12 @@ This project is a simple banking web application developed using **HTML**, **CSS
 XYZ-Bank-CaseStudy/
 │── index.html
 │── README.md
+│── Certificate/
+│     └── Web_Development_Course_Certificate.pdf
 ```
+
+
+
 
 ## 🚀 How to Run
 1. Download or clone the repository.
